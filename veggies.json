@@ -1,0 +1,27 @@
+[
+  {
+    "color": "purple", 
+    "length": "8", 
+    "name": "eggplant"
+  }, 
+  {
+    "color": "red", 
+    "length": "6", 
+    "name": "tomato"
+  }, 
+  {
+    "color": "yellow", 
+    "length": "4", 
+    "name": "corn"
+  }, 
+  {
+    "color": "green", 
+    "length": "8", 
+    "name": "cucumber"
+  }, 
+  {
+    "color": "brown", 
+    "length": "6", 
+    "name": "potato"
+  }
+]
